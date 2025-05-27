@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+fpdf
+pandas
+gspread
+oauth2client
